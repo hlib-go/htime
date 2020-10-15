@@ -1,3 +1,3 @@
-module github.com/hlib-go/htime
+module htime
 
 go 1.14
